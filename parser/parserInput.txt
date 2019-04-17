@@ -1,0 +1,16 @@
+identifier , m
+symbol , *=
+identifier , y
+symbol , +
+number , x
+symbol , ;
+saved_word , repeat
+identifier , m
+symbol , *=
+number , 6
+saved_word , until
+identifier , x
+symbol , ;
+identifier , h
+symbol , =*
+identifier , l

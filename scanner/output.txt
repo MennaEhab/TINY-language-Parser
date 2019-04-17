@@ -1,0 +1,14 @@
+identifier , x
+symbol , :=
+number , 2
+symbol , ;
+identifier , x
+symbol , :=
+identifier , x
+symbol , +
+number , 3
+symbol , ;
+identifier , y
+symbol , :=
+number , 5
+symbol , ;
